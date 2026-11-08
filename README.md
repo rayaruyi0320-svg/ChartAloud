@@ -1,5 +1,9 @@
 # ChartAloud Studio
 
+- [Live website](https://chartaloud-hackathon-njfox7-f26d2a-67-159-65-209.sslip.io/)
+- [Demo video](https://youtu.be/XXM0A0Xy_tE)
+- [Slide view page](https://khsj.cn/zmq9vfpmm8hztpz)
+
 Built for [Triangle AI Hackathon 2026](https://triangle-ai-hackathon-2026.devpost.com/), hosted by Duke Engineering.
 
 A local-first single-series CSV/XLSX chart learning tool. Creator Mode prepares
@@ -241,9 +245,3 @@ Review screenshots are saved in `artifacts/screenshots/` by the browser suite.
 
 Brand source images remain in `assets/brand-source/`; UI cutouts are in `public/brand/`.
 Instrument and ambience attribution remains in [SAMPLE_CREDITS.md](SAMPLE_CREDITS.md).
-
-## Project links
-
-- [Live website](https://chartaloud-hackathon-njfox7-f26d2a-67-159-65-209.sslip.io/)
-- [Demo video](https://youtu.be/XXM0A0Xy_tE)
-- [Slide view page](https://khsj.cn/zmq9vfpmm8hztpz)
